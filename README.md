@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**ilovekids2/ilovekids2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a discord bot name gummy bot
+
+
+
+
+- 🌱 I’m currently learning node.js
+
+
+
+- 🤔 I’m looking for help with making a auto shop command
+
+
+
+
+- 💬 Ask me about stuff on discord add me gummy bear#6666
+
+
+
+- 📫 How to reach me: twitter my twitter is gummyleaks.
+
+
+
+
+- ⚡ Fun fact: i love gummy bears and i have 5 brothers
 -->
